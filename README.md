@@ -8,12 +8,11 @@ For linux, a patched kernel is only needed when using old kamakiri (see Setup fo
 Once the mtk script is running, boot into brom mode by powering off device, press and hold either
 vol up + power or vol down + power and connect the phone. Once detected by the tool,
 release the buttons.
-
 ## Credits
 - kamakiri [xyzz]
 - linecode exploit [chimera]
 - Chaosmaster
-- Geert-Jan Kreileman (GUI, design & fixes)
+- Geert-1月Kreileman (GUI, design & fixes)
 - All contributors
 
 ## Installation
@@ -41,7 +40,7 @@ sudo apt install python3 git libusb-1.0-0 python3-pip
 ```
 (sudo) pacman -S  python python-pip git libusb
 ```
-or
+或
 ```
 yay -S python python-pip git libusb
 ```
